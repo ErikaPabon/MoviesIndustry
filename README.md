@@ -1,4 +1,4 @@
-<h1> MoviesIndustry </h1>
+<h1> Movies Industry from 1980 to 2020</h1>
 
 <h2> Finding correlations in the movie industry using Python </h2>
   
