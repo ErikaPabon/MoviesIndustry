@@ -10,7 +10,7 @@
   <ul>
 <li> Anaconda: An open source distribution of Python and R programming languages</li>
 <li>Jupyter Notebook: an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.</li>
-<li>Python and libraries suchs Pandas, Seaborn, Matplotlib and numpy</li> 
+<li>Python and libraries suchs Pandas, Seaborn, Matplotlib and Numpy</li> 
 <li>Hashnode: Website that host my blog</li>
 </ul>
 
