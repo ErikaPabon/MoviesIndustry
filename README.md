@@ -8,10 +8,10 @@
   <h2>Tools I use for this project</h2>
   
   <ul>
-<li> Anaconda: An open source distribution of Python and R programming languages</li>
-<li>Jupyter Notebook: an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.</li>
-<li>Python and libraries suchs Pandas, Seaborn, Matplotlib and Numpy</li> 
-<li>Hashnode: Website that host my blog</li>
+<li> <bold>Anaconda:</bold> An open source distribution of Python and R programming languages</li>
+  <li><bold>Jupyter Notebook:</bold> an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.</li>
+  <li><bold>Python and libraries suchs Pandas, Seaborn, Matplotlib and Numpy</bold></li> 
+  <li><bold>Hashnode:</bold> Website that host my blog</li>
 </ul>
 
 <h2>You can also find me in:</h2>
