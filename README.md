@@ -1,4 +1,4 @@
-<title> MoviesIndustry </title>
+<h1> MoviesIndustry </h1>
 
 <h2> Finding correlations in the movie industry using Python </h2>
   
